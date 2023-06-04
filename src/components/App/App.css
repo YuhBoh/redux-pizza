@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #2ddded;
+  height: 70px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.total{
+  margin-top: -20px;
+  padding-left: 10px;
+}
+
+.cart{
+  width: 20px;
+  height: 20px;
+  border: solid;
+  margin-left: 500px;
+  margin-right: 5px ;
+}
